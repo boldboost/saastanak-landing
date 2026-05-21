@@ -68,7 +68,8 @@ main { position: relative; z-index: 2; }
 
 /* Offer cards */
 #offers { padding: 48px 0; }
-.section-title { font-size: 26px; margin: 12px 0 24px; }
+.section-title { font-size: 26px; margin: 12px 0 12px; }
+.section-sub { color: var(--ink-dim); font-size: 16px; margin-bottom: 24px; }
 .card {
   background: var(--surface); border: 1px solid var(--border);
   border-radius: 8px; padding: 22px; margin-bottom: 16px;
@@ -91,9 +92,13 @@ main { position: relative; z-index: 2; }
 .btn-ghost { background: transparent; color: var(--accent); border: 1px solid var(--accent); }
 @media (min-width: 640px) { .media-grid { grid-template-columns: repeat(3, 1fr); } }
 
-/* Guarantee */
-#guarantee { padding: 32px 0; }
+/* Pilot */
+#pilot { padding: 32px 0; }
 .guarantee-box { background: var(--accent-soft); border: 1px solid var(--accent); border-radius: 10px; padding: 24px; }
+.pilot-body { color: var(--ink); font-size: 16px; margin-bottom: 16px; }
+.pilot-list { list-style: none; margin: 0 0 16px; padding: 0; }
+.pilot-list li { font-size: 15px; color: var(--ink); padding-left: 22px; position: relative; margin-bottom: 8px; }
+.pilot-list li::before { content: ">"; position: absolute; left: 0; color: var(--accent); font-family: var(--font-mono); }
 .guarantee-note { font-family: var(--font-mono); font-size: 14px; color: var(--accent); margin-top: 8px; }
 
 /* Final CTA */

@@ -12,9 +12,13 @@ Audience: SaaS founders (primary), marketing agencies (secondary). English only.
 
 Deadline: SaaStanak is within ~1 week. Ship fast, reuse existing video assets.
 
+## Positioning: a pilot, not an established service
+
+We have NOT done these services for SaaS yet, and the page must not pretend we have. The frame is a **pilot program**: SaaStanak contacts can join as one of the **first 5 SaaS clients** at **founder pricing**. The honest reason-why for the low price (Hormozi's "magnetic reason why"): they help us prove the model for SaaS, and in exchange they get founder pricing, direct access to Darko, and a say in how it is built. Our viral-content background (large media pages, e.g. OMGFacts) is used as **capability proof**, never as a SaaS case study or results claim.
+
 ## The offer (from the Hormozi pass)
 
-Hero, then two alternatives, ordered for pull and defensibility:
+Wrapped inside the pilot. Hero, then two alternatives, ordered for pull and defensibility:
 
 1. **HERO — "Your Brand's Face, On Autopilot"**
    A custom AI influencer/persona locked to the client's brand: a consistent face and voice that produces video and static content indefinitely. AI Factory runs it end to end. Proof: HeyReach.
