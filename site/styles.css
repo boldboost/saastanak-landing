@@ -61,7 +61,8 @@ main { position: relative; z-index: 2; }
 #connect-bar a, #connect-bar button {
   font-family: var(--font-mono); font-size: 14px; color: var(--ink);
   text-decoration: none; background: transparent; border: 1px solid var(--border);
-  padding: 9px 14px; border-radius: 4px; cursor: pointer;
+  padding: 9px 14px; border-radius: 4px; cursor: pointer; min-height: 44px;
+  display: inline-flex; align-items: center;
 }
 #connect-bar a:hover, #connect-bar button:hover { border-color: var(--accent); color: var(--accent); }
 
