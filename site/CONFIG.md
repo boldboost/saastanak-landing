@@ -1,12 +1,15 @@
-# Drop-in assets for the page
+# Page config
 
-Edit these in `index.html` (search for the placeholder):
+**Live URL:** https://saastanak.digitalcorner.nl
+**Repo:** https://github.com/boldboost/saastanak-landing (deploys site/ via GitHub Actions on push to main)
+**DNS:** Cloudflare CNAME saastanak -> boldboost.github.io (DNS only). HTTPS enforced.
 
-- LINKEDIN_URL  -> the href of the LinkedIn link in #connect-bar and #footer
-- WHATSAPP_NUMBER -> used in https://wa.me/<number> (digits only, no + or spaces)
-- CALENDAR_URL -> the href of the "Book a 30 minute call" buttons (or reuse the WhatsApp link)
-- FB_PAGE_URL -> the href of the "See a live page we run" button in #proof
-- Video assets -> drop mp4s in assets/video/ or replace the <video>/embed in #proof
+## Wired links (already live in index.html)
+
+- LinkedIn -> https://www.linkedin.com/in/darko-janevski-72787746/ (connect bar + footer)
+- WhatsApp -> https://wa.me/38977707447 with prefilled message (connect bar + booking CTA)
+- Booking channel -> WhatsApp (no separate calendar link; CTAs open WhatsApp)
+- "See a page we run" -> https://www.facebook.com/OMGFacts
 
 ## Missing image assets (broken references are acceptable until supplied)
 
